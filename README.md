@@ -1,4 +1,7 @@
+# Model: Content-based Filtering và Collaborative Filtering
 
+Tôi đã xây dựng loại đề xuất dựa trên nội dung của bộ phim (Content Based Filtering) để người dùng có thể nhận được đề xuất về các bộ phim tương ứng với bộ phim mà người đó đang xem hoặc chú ý. Ngoài ra, tôi cũng xây dựng thêm phương pháp lọc cộng tác (Collaborative Filtering) để dự đoán đánh giá của người dùng đối với bất kỳ bộ phim nào trong tập dữ liệu dựa trên lịch sử đánh giá của người đó. 
+  
 # Tập dữ liệu tmdb_5000_credits.csv: bao gồm các đặc trưng sau:
 
 * **movie_id**: id của phim
