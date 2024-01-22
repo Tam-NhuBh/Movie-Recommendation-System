@@ -1,4 +1,9 @@
+# Model: Content-based Filtering và Collaborative Filtering
 
+* **movie_id**: id của phim
+* **cast**: tên của các diễn viên chính và phụ.
+* **crew**: tên của các nhân viên trong quá trình sản xuất phim (đạo diễn, editor, người soạn nhạc, v.v.)
+  
 # Tập dữ liệu tmdb_5000_credits.csv: bao gồm các đặc trưng sau:
 
 * **movie_id**: id của phim
